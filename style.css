@@ -1,0 +1,22 @@
+body {
+    background-color: lavender;
+}
+
+h1 {
+    color: powderblue;
+    font-weight: bolder;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+p {
+    color: darkgrey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button {
+    color: powderblue;
+    border: 2px dotted pink;
+    background-color: transparent;
+    font-weight: bolder;
+    font-family: Impact;
+}
